@@ -36,6 +36,16 @@ main {
   ;
 }
 
+.form {
+    
+    max-width: 200px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    color: #9eb1be;
+  }
+
+
 
 body {
     
@@ -57,6 +67,7 @@ body {
 .media-link {
   height: 40px; width: 40px;
 }
+
 
 /* footer {
   box-sizing: border-box;
